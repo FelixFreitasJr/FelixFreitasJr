@@ -31,3 +31,7 @@ Olá Mundo!
   <a href="https://www.linkedin.com/in/felixfreitasjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
+![Snake animation](https://github.com/felixfreitasjr/felixfreitasjr/blob/output/github-contribuition-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=felixfreitasjr&repor=felixfreitasjr&theme=react)](https://github.com/felixfreitasjr/felixfreitasjr)
