@@ -1,7 +1,7 @@
 ## Olá Mundo! Sou Felix Freitas Jr 👋
 
 - 🔭 Busco experiência na área;
-- 📘 Pós-Graduação em Engenharia de Software
+- 📘 Pós-Graduação em Engenharia de Software;
 - 🌱 Conhecendo Java POO;
 - 🗣️ Falo: Português e estou aprendendo Inglês Básico;
 - 😄 Pronomes: ele/dele
