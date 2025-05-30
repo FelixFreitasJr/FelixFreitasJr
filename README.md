@@ -20,22 +20,19 @@ Seja bem-vindo ao meu perfil! Sou apaixonado por tecnologia e desenvolvimento, s
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixfreitasjr&layout=compact&theme=dark"/>
 </div>
 
----
-
 ## 🗂️ Meus Projetos
 
 | Front-end                                                                                 | Back-end                                                                 | Full Stack                                          |
 |------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------|
-| [Projeto-Conversor-de-Moedas-Simples](https://github.com/FelixFreitasJr/Projeto-Conversor-de-Moedas-Simples) | [Java_POO_Projetos](https://github.com/FelixFreitasJr/Java_POO_Projetos)           | [Projeto-Freitas-eletricista](https://github.com/FelixFreitasJr/Projeto-Freitas-eletricista) |
-| [projeto-glass-html5](https://github.com/FelixFreitasJr/projeto-glass-html5)             | [Aprenda-a-programar-em-PHP](https://github.com/FelixFreitasJr/Aprenda-a-programar-em-PHP) | [StudioFreitasTech](https://github.com/FelixFreitasJr/StudioFreitasTech)                     |
-| [memory-game](https://github.com/FelixFreitasJr/memory-game)                             | [CONTROLE-PFF-VBA](https://github.com/FelixFreitasJr/CONTROLE-PFF-VBA)              | [SentinelaPlus](https://github.com/FelixFreitasJr/SentinelaPlus)                            |
-| [SNAKE-GAME](https://github.com/FelixFreitasJr/SNAKE-GAME)                               |                                                                              | [satelite](https://github.com/FelixFreitasJr/satelite)                                      |
+| [Projeto-Conversor-de-Moedas-Simples](https://github.com/FelixFreitasJr/Projeto-Conversor-de-Moedas-Simples) | [Java_POO_Projetos](https://github.com/FelixFreitasJr/Java_POO_Projetos)           | [StudioFreitasTech](https://github.com/FelixFreitasJr/StudioFreitasTech) |
+| [projeto-glass-html5](https://github.com/FelixFreitasJr/projeto-glass-html5)             | [Aprenda-a-programar-em-PHP](https://github.com/FelixFreitasJr/Aprenda-a-programar-em-PHP) |     [IA-Mail](https://github.com/FelixFreitasJr/IA-Mail)                 |
+| [memory-game](https://github.com/FelixFreitasJr/memory-game)                             |                                                                              | [CONTROLE-PFF-VBA](https://github.com/FelixFreitasJr/CONTROLE-PFF-VBA)              |
+| [SNAKE-GAME](https://github.com/FelixFreitasJr/SNAKE-GAME)                               |                                                                              | [SentinelaPlus](https://github.com/FelixFreitasJr/SentinelaPlus)                            |
+| [satelite](https://github.com/FelixFreitasJr/satelite)                                   |                                                                              | [sentinela](https://github.com/FelixFreitasJr/sentinela)                                    |
+| [Projeto-Freitas-eletricista](https://github.com/FelixFreitasJr/Projeto-Freitas-eletricista)                                                                                         |                                                                              | [siga-sentinela](https://github.com/FelixFreitasJr/siga-sentinela)                          |
 |                                                                                          |                                                                              | [BacoIpswich](https://github.com/FelixFreitasJr/BacoIpswich)                                |
-|                                                                                          |                                                                              | [IA-Mail](https://github.com/FelixFreitasJr/IA-Mail)                                        |
-|                                                                                          |                                                                              | [sentinela](https://github.com/FelixFreitasJr/sentinela)                                    |
-|                                                                                          |                                                                              | [siga-sentinela](https://github.com/FelixFreitasJr/siga-sentinela)                          |
 
----
+
 
 ## 🛠️ Skills
 
